@@ -1,0 +1,1 @@
+First assignment for the course "Mastering DevOps: From Fundamentals to Advanced Practices" by Ostad.
